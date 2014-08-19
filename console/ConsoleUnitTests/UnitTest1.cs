@@ -19,6 +19,7 @@ namespace ConsoleUnitTests
         {
             var p = MyClassToTest.Return5();
             Assert.AreEqual(p, 6,"This test will fail");
+
         }
     }
 }
