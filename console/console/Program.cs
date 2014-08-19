@@ -14,7 +14,12 @@ namespace console
             Console.ReadKey();
         }
 
-        public int Return5()
+        
+    }
+
+    public class MyClassToTest
+    {
+        public static int Return5()
         {
             return 5;
         }
