@@ -13,5 +13,10 @@ namespace console
             Console.Write("Press any key to exit");
             Console.ReadKey();
         }
+
+        public int Return5()
+        {
+            return 5;
+        }
     }
 }
